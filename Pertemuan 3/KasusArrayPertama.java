@@ -2,7 +2,7 @@ package Array;
 
 import java.io.*;
 
-public class KasusArray 
+public class KasusArrayPertama 
 {
     public static void main(String[]args)throws IOException
     {

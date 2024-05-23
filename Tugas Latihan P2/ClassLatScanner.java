@@ -6,7 +6,7 @@ package com.mycompany.pertemuan_5;
 import java.util.Scanner;
 /**
  *
- * @author lenovo
+ * @author ISWARA DAFFA 
  */
 public class ClassLatihanScanner {
     public String nama,nim;
